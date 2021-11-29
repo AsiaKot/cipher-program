@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Application view](#application-view)
-* [Inspiration](#inspitarion)
+* [Inspiration](#inspiration)
 * [Authors](#authors)
 
 ## General information
