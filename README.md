@@ -4,7 +4,7 @@
 * [General information](#general-information)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Application view](#application view)
+* [Application view](#application-view)
 * [Inspiration](#inspitarion)
 * [Authors](#authors)
 
@@ -20,17 +20,11 @@
 ## Technologies
   TBA
   
-
 ## Setup
- How/where to download your program
- Any modifications needed to be made to files/folders
- How to run the program
- Step-by-step bullet
- code blocks for commands 
+ Clone the repo: ```git clone https://github.com/AsiaKot/cipher_program.git``` 
 
 ## Application view
 <img src="https://user-images.githubusercontent.com/86662368/143887625-48cbccf4-0d58-42f6-91e7-3f2ff7edd56e.JPG" width="50%" height="50%"></img>
-
 
 ## Inspiration
   devs_mentoring :-)
