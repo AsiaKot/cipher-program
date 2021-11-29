@@ -19,19 +19,18 @@ Wybierz jedną z opcji:
 2 - Odszyfruj tekst
 """)
             utilities.clear_screen()
+            print()
             if encrypt_or_decrypt == "1":
                 encrypt = True
                 plain_text = input("Podaj tekst do zaszyfrowania:\n")
-                utilities.clear_screen()
             elif encrypt_or_decrypt == "2":
                 encrypt = False
                 plain_text = input("Podaj tekst do odszyfrowania:\n")
-                utilities.clear_screen()
             else:
                 print("Niepoprawny wybór")
-                utilities.clear_screen()
                 continue
 
+            utilities.clear_screen()
             cipher = input("""
 Wybierz szyfr:
 1 - ROT13
@@ -47,6 +46,8 @@ Wybierz szyfr:
                 print("Niepoprawny wybór")
                 continue
 
+            utilities.clear_screen()
+            print()
             untils.show_result(encrypt, cipher_text)
             untils.save_to_file(plain_text, cipher, cipher_text)
 
