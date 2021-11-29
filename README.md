@@ -3,8 +3,8 @@
 
 ## General information
 <details>
-<summary>Click here to see project description</summary>
-  It's a simple Python program to encrypt and decrypt text with ROT13 and ROT47 ciphers. ROT13 is a cipher that replaces a letter with the 13th letter after it in the alphabet, 
+<summary>Click here to see more details</summary>
+  ROT13 is a cipher that replaces a letter with the 13th letter after it in the alphabet, 
   while ROT47 replaces any ASCII character in the range 33-126 with a character 47 positions further up to (but not more than 126 positions).
 </details>
 
@@ -20,7 +20,7 @@
     Step-by-step bullet
     <code blocks for commands>
 
-##Help
+## Help
     Any advise for common problems or issues.
     <command to run if program contains helper info>
 
@@ -36,16 +36,12 @@
     0.1
         Initial Release
 
-##License
+## License
 
     This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 Acknowledgments
 
 ## Inspiration, code snippets, etc.
-
-    awesome-readme
-    PurpleBooth
-    dbader
-    zenorocha
-    fvcproductions
+    devs_mentoring
+    https://www.devs-mentoring.pl/tworzenie-profesjonalnego-readme/
