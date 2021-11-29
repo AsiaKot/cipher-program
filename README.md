@@ -3,9 +3,10 @@
 
 ## General information
 <details>
-<summary>Click here to see more details</summary>
-  ROT13 is a cipher that replaces a letter with the 13th letter after it in the alphabet, 
-  while ROT47 replaces any ASCII character in the range 33-126 with a character 47 positions further up to (but not more than 126 positions).
+<summary>Click here to see more details about the ciphers</summary>
+  ROT13 is a cipher that replaces a letter with the 13th letter after it in the alphabet.
+  
+  ROT47 on the other hand, replaces any ASCII character in the range 33-126 with a character 47 positions further up to (but not more than 126 positions).
 </details>
 
 #Content of Project
