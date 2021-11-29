@@ -18,23 +18,23 @@
 </details>
 
 ## Technologies
-  Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-  ex. Windows 10
+  TBA
+  
 
 ## Setup
-    How/where to download your program
-    Any modifications needed to be made to files/folders
-    How to run the program
-    Step-by-step bullet
-    code blocks for commands 
+ How/where to download your program
+ Any modifications needed to be made to files/folders
+ How to run the program
+ Step-by-step bullet
+ code blocks for commands 
 
 ## Application view
-  bla bla bla
+<img src="https://user-images.githubusercontent.com/86662368/143887625-48cbccf4-0d58-42f6-91e7-3f2ff7edd56e.JPG" width="50%" height="50%"></img>
+
 
 ## Inspiration
   devs_mentoring :-)
 
 ## Authors
    AsiaKot<br/>
-   @: asia00714@wp.pl
-    
+   @: asia00714@wp.pl   
