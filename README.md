@@ -18,8 +18,8 @@
 </details>
 
 ## Technologies
-  Python 3.X.X
-  pip==21.3.1
+  Python 3.X.X</br>
+  pip==21.3.1</br>
   setuptools==59.2.0
   
 ## Setup
