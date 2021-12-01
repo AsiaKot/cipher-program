@@ -18,7 +18,9 @@
 </details>
 
 ## Technologies
-  TBA
+  Python 3.X.X
+  pip==21.3.1
+  setuptools==59.2.0
   
 ## Setup
  Clone the repo: ```git clone https://github.com/AsiaKot/cipher_program.git``` 
