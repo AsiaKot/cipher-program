@@ -19,8 +19,6 @@
 
 ## Technologies
   Python 3.X.X</br>
-  pip==21.3.1</br>
-  setuptools==59.2.0
   
 ## Setup
  Clone the repo: ```git clone https://github.com/AsiaKot/cipher_program.git``` 
