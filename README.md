@@ -5,8 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Application view](#application-view)
-* [Inspiration](#inspiration)
-* [Authors](#authors)
+
 
 ## General information
   Simple Python program to encrypt and decrypt text with ROT13 and ROT47 ciphers.
